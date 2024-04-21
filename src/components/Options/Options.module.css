@@ -1,0 +1,10 @@
+.buttons {
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+
+}
+
+.btn {
+    border: 1px solid black;
+}
